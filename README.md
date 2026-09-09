@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1480-running-sum-of-1d-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1920-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
