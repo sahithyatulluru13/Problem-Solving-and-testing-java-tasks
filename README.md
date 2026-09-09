@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -139,15 +141,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0459-repeated-substring-pattern) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
