@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0890-find-and-replace-pattern) |
+| [1396-design-underground-system](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1396-design-underground-system) |
 | [2418-sort-the-people](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1360-number-of-days-between-two-dates) |
+| [1396-design-underground-system](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/2418-sort-the-people) |
@@ -171,5 +173,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
