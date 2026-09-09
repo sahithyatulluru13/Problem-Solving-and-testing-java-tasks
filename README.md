@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0049-group-anagrams) |
+| [1360-number-of-days-between-two-dates](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1360-number-of-days-between-two-dates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
