@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0977-squares-of-a-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/2418-sort-the-people) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0347-top-k-frequent-elements) |
 | [2418-sort-the-people](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/2418-sort-the-people) |
 ## String
