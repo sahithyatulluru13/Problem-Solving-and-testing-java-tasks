@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1732-find-the-highest-altitude) |
@@ -174,5 +175,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1603-design-parking-system) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
