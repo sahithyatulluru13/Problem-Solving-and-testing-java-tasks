@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/0179-largest-number) |
 | [1154-day-of-the-year](https://github.com/sahithyatulluru13/Problem-Solving-and-testing-java-tasks/tree/master/1154-day-of-the-year) |
